@@ -1,2 +1,2 @@
-# Learning_Pandas
+# Learning Pandas
 Learning Advanced Pandas
